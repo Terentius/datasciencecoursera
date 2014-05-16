@@ -1,0 +1,4 @@
+datasciencecoursera
+===================
+
+basic software setup
